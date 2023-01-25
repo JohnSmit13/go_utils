@@ -1,0 +1,11 @@
+abcd 234 200
+len  900 nnn
+nvim 1234 300
+park 600a ddd
+park 600b acc
+park 600b ccc
+park 600g 500
+park aaa
+park cccdd
+park ddd
+ten  999 400
